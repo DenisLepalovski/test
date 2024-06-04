@@ -7,6 +7,7 @@ public class Test2 {
 
         System.out.println("second commit from new-branch");
         System.out.println("third commit from new-branch");
+        System.out.println("fourth commit from new-branch");
 
     }
 
